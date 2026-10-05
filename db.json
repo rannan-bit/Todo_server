@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "text": "helloo",
+      "completed": false,
+      "id": "XtNjO86arZ4"
+    },
+    {
+      "text": "exam",
+      "completed": false,
+      "id": "qy1qL1wM7Wo"
+    },
+    {
+      "text": "trp",
+      "completed": false,
+      "id": "RxBQmTefxTA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
